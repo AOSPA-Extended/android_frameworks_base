@@ -37,9 +37,6 @@ import java.util.StringJoiner;
  */
 public class QuickStepContract {
     // Fully qualified name of the Launcher activity.
-    public static final String LAUNCHER_ACTIVITY_CLASS_NAME =
-            "co.aospa.launcher.ParanoidLauncher";
-    // Fully qualified name of the Pixel Launcher activity.
     public static final String NEXUS_LAUNCHER_ACTIVITY_CLASS_NAME =
             "com.google.android.apps.nexuslauncher.NexusLauncherActivity";
 
